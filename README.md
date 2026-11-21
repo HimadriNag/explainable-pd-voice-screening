@@ -1,5 +1,7 @@
 # An Explainable Voice-Based Screening System for Parkinson's Disease with Age-Aware Validation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24419909.svg)](https://doi.org/10.5281/zenodo.24419909)
+
 Developed at the Department of Electronics and Communication Engineering, National Institute of Technology Calicut, India.
 
 **Author:** Himadri Nag
@@ -117,6 +119,10 @@ SHAP vs permutation agreement: RBO 0.73 [0.71, 0.75]. Stable core (top 5 in at l
 - Oxford and Istanbul features were provided precomputed; we computed the Italian ones, so measurement differences add to dataset differences.
 - Only 11 classic features; KernelExplainer SHAP values for SVM and MLP are approximate.
 - The app is trained on one Italian dataset, its low / medium / high cut-offs are our own choice, and it has not been tested with real users or clinicians. It is a research prototype for screening only.
+
+## Citation
+
+Code DOI: https://doi.org/10.5281/zenodo.24419909
 
 ## Dataset citations
 
