@@ -1,0 +1,14 @@
+# Tested with Python 3.11.17 (conda env "pdvoice")
+numpy==2.4.6
+pandas==3.1.0
+scipy==1.17.1
+scikit-learn==1.9.1
+xgboost==3.2.0
+shap==0.51.0
+matplotlib==3.11.2
+joblib==1.6.0
+praat-parselmouth==0.4.7
+gradio==6.30.0
+pillow==12.3.0
+python-pptx==1.0.2
+python-docx==1.2.0

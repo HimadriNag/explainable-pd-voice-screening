@@ -1,0 +1,5 @@
+task,people_pos,people_neg,files,bal_acc_mean,bal_acc_sd
+vowel: PD vs HEC,25,22,99,0.68,0.017272727272727287
+reading: PD vs YHC,25,15,82,0.9826923076923076,0.0038461538461538325
+reading: PD vs HEC,25,21,94,0.701007326007326,0.014023253508345742
+reading: HEC vs YHC,21,15,72,1.0,0.0

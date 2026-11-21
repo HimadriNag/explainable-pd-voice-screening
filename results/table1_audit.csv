@@ -1,0 +1,3 @@
+dataset,rows,people,recordings_per_person_min,recordings_per_person_max,pd_people,healthy_people,missing_values
+Oxford (D1),195,32,6,7,24,8,0
+Istanbul (D3),756,252,3,3,188,64,0

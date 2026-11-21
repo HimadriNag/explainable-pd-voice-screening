@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Explainable Voice-Based Screening for Parkinson's Disease: code and results"
+authors:
+  - family-names: Nag
+    given-names: Himadri
+    affiliation: National Institute of Technology Calicut
+version: 1.0.0
+date-released: 2026-11-21
+license: MIT
