@@ -27,6 +27,8 @@ requirements.txt
 ## Setup
 
 ```
+git clone https://github.com/HimadriNag/explainable-pd-voice-screening.git
+cd explainable-pd-voice-screening
 conda create -n pdvoice python=3.11
 conda activate pdvoice
 pip install -r requirements.txt
